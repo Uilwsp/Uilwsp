@@ -14,7 +14,7 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode" alt="tecnologias">
+  <img src="https://skillicons.dev/icons?i=python,html,css,git,github" alt="tecnologias">
 </div>
 
 ---
