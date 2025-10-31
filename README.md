@@ -4,11 +4,6 @@
 
 ---
 
-### 💡 Sobre mim
-- 👩‍💻 Sei um pouco de tudo, mas tenho mais experiência com **HTML** e **CSS**  
-- 🐍 Atualmente estudando **Python** e começando minha jornada no **Back-End**  
-- 🌱 Sempre buscando aprender mais e colocar a mão no código  
-- ✨ Curiosa por natureza e apaixonada por tecnologia  
 
 ---
 
